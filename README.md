@@ -49,18 +49,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Ranveer46&show_icons=true&theme=dark&hide_border=true" 
-    alt="Ranveer's GitHub Stats" 
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ranveer46&show_icons=true&theme=dark" />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranveer46&layout=compact&theme=dark&hide_border=true" 
-    alt="Top Languages" 
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranveer46&layout=compact&theme=dark" />
 </p>
+
 
 
 ### 🏆 Achievements
