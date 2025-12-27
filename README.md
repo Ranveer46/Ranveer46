@@ -42,19 +42,26 @@
 
 ---
 
+
+
+
+
 ### 📊 GitHub Stats
 
-
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ranveer46&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Ranveer46&show_icons=true&theme=dark&hide_border=true" 
+    alt="Ranveer's GitHub Stats" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ranveer46&theme=tokyonight" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranveer46&layout=compact&theme=dark&hide_border=true" 
+    alt="Top Languages" 
+  />
 </p>
 
----
 
 ### 🏆 Achievements
 
