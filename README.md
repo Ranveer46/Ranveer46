@@ -44,9 +44,14 @@
 
 ### 📊 GitHub Stats
 
+
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ranveer46&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ranveer46&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ranveer46&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ranveer46&theme=tokyonight" />
 </p>
 
 ---
@@ -65,10 +70,12 @@
 ### 🤝 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
+<a href="www.linkedin.com/in/
+ranveer-pensalwar-b59b4a25b
+" target="blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"/>
 </a>
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:pensalwarranveer1@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail"/>
 </a>
 </p>
